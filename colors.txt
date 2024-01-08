@@ -1,0 +1,20 @@
+Black: #353535
+BrightBlack: #535353
+Red: #d04949
+BrightRed: #f95353
+Green: #258e25
+BrightGreen: #34cb34
+Yellow: #e6ac00
+BrightYellow: #ffdf80
+Blue: #628cb7
+BrightBlue: #9fbfe0
+Magenta: #ba7ece
+BrightMagenta: #d7b5e3
+Cyan: #29a3a3
+BrightCyan: #ccffff
+White: #eeeeec
+BrightWhite: #ffffff
+
+Background: #373333
+Selection: #5f5959
+SelectText: #696363
