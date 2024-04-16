@@ -10,4 +10,4 @@ There is also a lualine themes included.
 
 ### Lua
 
-![](./images/lua.png)
+![](https://imgur.com/a/BDslT9T)
