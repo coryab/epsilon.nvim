@@ -1,6 +1,6 @@
 # Epsilon theme
 
-A dark theme with . You can also find this theme for [Kitty](https://github.com/coryab/epsilon.kitty), and [Tmux](https://github.com/coryab/epsilon.tmux).
+A dark theme. You can also find this theme for [Kitty](https://github.com/coryab/epsilon.kitty), and [Tmux](https://github.com/coryab/epsilon.tmux).
 
 This theme is a work in progress, so it may change at any time.
 
