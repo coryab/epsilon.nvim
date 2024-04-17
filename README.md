@@ -11,3 +11,7 @@ There is also a lualine themes included.
 ### Lua
 
 ![](https://i.imgur.com/GCf36bx.png)
+
+### Java
+
+![](https://i.imgur.com/Cid7Qhk.png)
