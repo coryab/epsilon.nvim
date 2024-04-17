@@ -15,3 +15,7 @@ There is also a lualine themes included.
 ### Java
 
 ![](https://i.imgur.com/Cid7Qhk.png)
+
+## License
+
+This repository is licensed using the [MIT License](./LICENSE).
