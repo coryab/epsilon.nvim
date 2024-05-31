@@ -108,7 +108,7 @@ local groups = {
   WarningMsg = { link = "EpsilonThemeRedBold" },
   LineNr = { fg = colors.bg4 },
   SignColumn = config.transparent_mode and { bg = nil } or { bg = colors.bg1 },
-  Folded = { fg = colors.gray, bg = colors.bg1, italic = config.italic.folds },
+  Folded = { fg = colors.gray, bg = colors.bg0, italic = config.italic.folds },
   FoldColumn = config.transparent_mode and { fg = colors.gray, bg = nil } or { fg = colors.gray, bg = colors.bg1 },
   Cursor = { reverse = config.inverse },
   vCursor = { link = "Cursor" },
